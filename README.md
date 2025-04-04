@@ -1,15 +1,16 @@
 # Support Ticketing System
 
-A ticketing support system built with Laravel that allows users to create support tickets and administrators to manage them.
+A comprehensive ticketing system built with Laravel that allows users to create support tickets and administrators to manage them efficiently. Perfect for customer service departments, IT help desks, or any team that needs to track and resolve user-submitted issues.
 
 ## Features
 
-- User authentication
-- Create and manage support tickets
-- Ticket categories and priorities
-- Admin dashboard for ticket management
-- Comment system for ticket updates
-- User roles (Admin and Agent)
+- User authentication with role-based access control
+- Create and manage support tickets with attachments
+- Categorization with priorities and statuses
+- Admin dashboard with detailed statistics
+- Email notifications for ticket updates
+- Comment system for communication between users and support staff
+- User roles (Admin and Agent) with different permissions
 
 ## Requirements
 
